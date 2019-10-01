@@ -1,5 +1,5 @@
 # Capstone
-IBM Data Science Professional Specialization
+IBM Data Science Professional Specialization |
 This project will try to solve a problem or question by applying data science methods on the location data gotten from FourSquare API.
 
 Email: shl034@ucsd.edu
